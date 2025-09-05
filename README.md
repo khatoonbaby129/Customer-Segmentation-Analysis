@@ -7,7 +7,7 @@ Visualization:
 
 
 Insights:
-Pink : these are those people who has low income and low spendings.
-Red : they spend more has less income
-blue  : they has hig income but less spendings, we should give them some offers, discounts   to grab their attention on our products.
+Pink : these are those people who have low income and low spendings.
+Red : they spend more have less income
+blue  : they have hig income but less spendings, we should give them some offers, discounts   to grab their attention on our products.
 yellow : represents high income , high spendings
